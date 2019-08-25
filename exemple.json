@@ -1,0 +1,40 @@
+[
+  {
+    "type": "coding",
+    "subType": [
+      {
+        "branch": "feature/druint-69",
+        "time_spent": 4200
+      },
+      {
+        "branch": "feature/druint-93",
+        "time_spent": 3600
+      }
+    ]
+  },
+  {
+    "type": "browsing",
+    "subType": [
+      {
+        "type": "research",
+        "time_spent": 1235,
+        "domains": ["www.google.com", "www.stackoverflow.com"]
+      },
+      {
+        "type": "business",
+        "time_spent": 201,
+        "domains": [
+          "www.confluence.com",
+          "www.jira.com",
+          "www.bitbucket.com",
+          "**cgi**"
+        ]
+      },
+      {
+        "type": "course",
+        "time_spent": 3600,
+        "domains": ["www.udemy.com"]
+      }
+    ]
+  }
+]
